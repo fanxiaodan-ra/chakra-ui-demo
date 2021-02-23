@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "chakraUiDemo",
+      "script": "npm", 
+      "args": "start"
+    }
+  ]
+}
